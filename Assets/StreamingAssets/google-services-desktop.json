@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325754538278",
+    "project_id": "energymetricssystem",
+    "storage_bucket": "energymetricssystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325754538278:android:2f077c4d8f50bbcd9159e7",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.EnergyMetricsSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325754538278-2bpjqtbguh3k3tj3lch96tu4qncouas6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6bQQx-nW-Gkojd5qtpZkkC3NQBIlbBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325754538278-2bpjqtbguh3k3tj3lch96tu4qncouas6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
